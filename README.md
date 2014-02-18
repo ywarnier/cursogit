@@ -1,6 +1,8 @@
 cursogit
 ========
 
+Este es mi cambio >> FraGoTe
+
 Pequeño repo para un curso git
 
 Yannick was here again
